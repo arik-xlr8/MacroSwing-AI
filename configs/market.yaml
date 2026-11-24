@@ -1,0 +1,5 @@
+# PDF §§5–6, 10, 18. Proposed provider adapter. Start date is open.
+provider: yahoo_finance
+index: XU100
+fields: [open, high, low, close, volume, adjusted_close]
+start_date: null

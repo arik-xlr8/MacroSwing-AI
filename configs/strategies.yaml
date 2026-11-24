@@ -1,0 +1,5 @@
+# PDF §29 specifies this cumulative strategy space. Rules remain open.
+variants: [A, B, C, D, E]
+entry_rules: null
+exit_rules: null
+factor_weights: null

@@ -1,0 +1,1 @@
+"""MacroSwing educational research package."""

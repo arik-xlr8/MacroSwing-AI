@@ -1,0 +1,6 @@
+# PDF §15 inputs. Separate global and domestic regimes are a project hypothesis.
+required_series: [USD/TRY, EUR/TRY, TCMB_policy_rate, Fed_target_range, TUIK_CPI_monthly, TUIK_CPI_annual]
+regime_scopes: [global, turkish]
+regime_labels: [EXPANSION, LATE_CYCLE, CONTRACTION, RECOVERY, UNCERTAIN]
+classification_rules: null
+provider_access: null

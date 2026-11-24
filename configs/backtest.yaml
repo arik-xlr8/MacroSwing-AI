@@ -1,0 +1,11 @@
+# PDF §§10–14, 18. Reaction windows follow the §14 illustrative example.
+reversal_days: [1, 3, 5, 10]
+catch_up_days: [5, 10, 20]
+disclosure_days: [1, 5, 20]
+# Project proposal for longer macro effects, disabled until authorized.
+additional_days: []
+benchmarks: [buy_and_hold, XU100, sector_when_available]
+cost_assumptions: null
+slippage_assumptions: null
+position_sizing: null
+risk_constraints: null

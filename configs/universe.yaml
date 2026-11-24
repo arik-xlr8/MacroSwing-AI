@@ -1,0 +1,97 @@
+# Instructor table, PDF p. 3 §5. Comparison inputs never enter the fixed roster.
+study_universe: fixed
+recheck_membership_each_run: true
+historical_membership_reference: null
+external_sector_benchmarks: []
+external_sector_peers: []
+stocks:
+  - ticker: ASELS
+    yahoo_symbol: ASELS.IS
+    sector: {label: "Technology / Defense"}
+  - ticker: TUPRS
+    yahoo_symbol: TUPRS.IS
+    sector: {label: "Petroleum / Refining"}
+  - ticker: BIMAS
+    yahoo_symbol: BIMAS.IS
+    sector: {label: "Retail Trade"}
+  - ticker: THYAO
+    yahoo_symbol: THYAO.IS
+    sector: {label: "Transportation / Airlines"}
+  - ticker: AKBNK
+    yahoo_symbol: AKBNK.IS
+    sector: {label: "Banking"}
+  - ticker: KCHOL
+    yahoo_symbol: KCHOL.IS
+    sector: {label: "Holding / Investment"}
+  - ticker: EREGL
+    yahoo_symbol: EREGL.IS
+    sector: {label: "Basic Metals / Steel"}
+  - ticker: TCELL
+    yahoo_symbol: TCELL.IS
+    sector: {label: "Telecommunications"}
+  - ticker: CCOLA
+    yahoo_symbol: CCOLA.IS
+    sector: {label: "Food & Beverage"}
+  - ticker: MGROS
+    yahoo_symbol: MGROS.IS
+    sector: {label: "Retail Trade"}
+  - ticker: SASA
+    yahoo_symbol: SASA.IS
+    sector: {label: "Chemicals / Plastics"}
+  - ticker: TRALT
+    yahoo_symbol: TRALT.IS
+    sector: {label: "Mining"}
+  - ticker: FROTO
+    yahoo_symbol: FROTO.IS
+    sector: {label: "Automotive"}
+  - ticker: ENKAI
+    yahoo_symbol: ENKAI.IS
+    sector: {label: "Construction"}
+  - ticker: PGSUS
+    yahoo_symbol: PGSUS.IS
+    sector: {label: "Transportation / Airlines"}
+  - ticker: MPARK
+    yahoo_symbol: MPARK.IS
+    sector: {label: "Healthcare"}
+  - ticker: EKGYO
+    yahoo_symbol: EKGYO.IS
+    sector: {label: "Real Estate Investment Trust"}
+  - ticker: GUBRF
+    yahoo_symbol: GUBRF.IS
+    sector: {label: "Chemicals / Fertilizer"}
+  - ticker: TURSG
+    yahoo_symbol: TURSG.IS
+    sector: {label: "Insurance"}
+  - ticker: ENJSA
+    yahoo_symbol: ENJSA.IS
+    sector: {label: "Electric Utilities"}
+  - ticker: TTKOM
+    yahoo_symbol: TTKOM.IS
+    sector: {label: "Telecommunications"}
+  - ticker: OYAKC
+    yahoo_symbol: OYAKC.IS
+    sector: {label: "Cement"}
+  - ticker: AKSEN
+    yahoo_symbol: AKSEN.IS
+    sector: {label: "Electric Utilities"}
+  - ticker: ISMEN
+    yahoo_symbol: ISMEN.IS
+    sector: {label: "Brokerage / Capital Markets"}
+  - ticker: ARCLK
+    yahoo_symbol: ARCLK.IS
+    sector: {label: "Durables / Machinery"}
+  - ticker: ECILC
+    yahoo_symbol: ECILC.IS
+    sector: {label: "Healthcare / Pharmaceuticals"}
+  - ticker: MAVI
+    yahoo_symbol: MAVI.IS
+    sector: {label: "Retail / Apparel"}
+  - ticker: PETKM
+    yahoo_symbol: PETKM.IS
+    sector: {label: "Petrochemicals"}
+  - ticker: TOASO
+    yahoo_symbol: TOASO.IS
+    sector: {label: "Automotive"}
+  - ticker: KRDMD
+    yahoo_symbol: KRDMD.IS
+    sector: {label: "Basic Metals / Steel"}
